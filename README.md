@@ -1,5 +1,7 @@
 # alp-body-parser
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-body-parser.svg)](https://greenkeeper.io/)
+
 ```js
 import Koa from 'koa';
 import config from 'alp-config';
